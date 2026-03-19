@@ -9,3 +9,4 @@ target/
 .idea/
 *.iml
 jenkins.war
+*.tgz
